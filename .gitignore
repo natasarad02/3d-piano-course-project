@@ -1,0 +1,11 @@
+packages/
+/x64/
+/Debug/
+.vs/
+x64/
+Sablon/x64/
+*.obj
+*.exe
+*.pdb
+*.log
+*.user
