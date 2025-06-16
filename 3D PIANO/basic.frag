@@ -14,11 +14,8 @@ in vec2 chTex;
 
 void main() {
 
-     if (useTexture) {
-     
-        FragColor = texture(uTex, chTex);
-    } else {
+   
         FragColor = vec4(uColor, 1.0);
-    }
+    
   
 }
